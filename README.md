@@ -2,7 +2,7 @@
 
 These notebooks perform the analysis for the paper:
 
-> Maull, K. E., Ameko, A., Alter, R. _et al_, "OpenIoTwx: A Decentralized Automated IoT Weather Station Architecture", 2023. _Submitted to [HardwareX Journal]()._
+> Maull, K. E., Ameko, A., Alter, R. _et al_, "OpenIoTwx: A Decentralized Automated IoT Weather Station Architecture", 2025. _Submitted to [MDPI Sensors Journal]()._
 
 ## Data
 
